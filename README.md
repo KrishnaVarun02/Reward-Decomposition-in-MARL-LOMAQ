@@ -6,7 +6,7 @@ LOMAQ addresses multi-agent credit assignment by decomposing rewards and learnin
 
 ## Repository contents
 
-- [`ExploReport.pdf`](ExploReport.pdf) - complete 2023 project report, including the method, experimental setup, results, and references.
+- [`ExploReport.pdf`](ExploReport.pdf) - complete project report, including the method, experimental setup, results, and references.
 
 ## Project scope
 
