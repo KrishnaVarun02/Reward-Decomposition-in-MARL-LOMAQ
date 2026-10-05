@@ -1,0 +1,4 @@
+{
+  "episodes": 1000,
+  "algorithm": {"gamma": 0.99, "learning_rate": 0.1, "epsilon": 0.1, "seed": 7}
+}
