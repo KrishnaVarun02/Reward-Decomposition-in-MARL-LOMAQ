@@ -1,0 +1,5 @@
+# Exact versions used for recorded local verification (Python 3.12.14, CPU).
+numpy==2.5.3
+torch==2.14.1
+pytest==8.4.2
+ruff==0.16.10

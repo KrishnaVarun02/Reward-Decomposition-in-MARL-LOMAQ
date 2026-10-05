@@ -1,0 +1,1 @@
+{"training": {"episodes": 250, "epsilon_decay_steps": 2500, "eval_episodes": 32, "checkpoint_every": 125}}
