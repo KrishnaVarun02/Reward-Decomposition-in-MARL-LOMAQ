@@ -1,0 +1,3 @@
+{
+  "environment": {"name": "linked_navigation", "n_agents": 3, "length": 7, "horizon": 16, "coupling_distance": 2}
+}

@@ -1,0 +1,5 @@
+{
+  "environment": {"name": "linked_navigation", "n_agents": 3, "length": 7, "horizon": 16, "coupling_distance": 2},
+  "algorithm": {"name": "lomaq", "partitions": [[0], [1], [2]], "hidden_dim": 32, "mixer_dim": 16, "gamma": 0.95, "learning_rate": 0.001},
+  "training": {"seed": 7, "episodes": 400, "batch_size": 64, "replay_capacity": 10000, "learning_starts": 128, "train_every": 1, "target_update_steps": 100, "epsilon_start": 1.0, "epsilon_end": 0.05, "epsilon_decay_steps": 4000, "gradient_clip": 10.0, "eval_episodes": 64, "eval_seed": 10000, "checkpoint_every": 100}
+}

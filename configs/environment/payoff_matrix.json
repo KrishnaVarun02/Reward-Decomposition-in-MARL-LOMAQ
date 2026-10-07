@@ -1,0 +1,3 @@
+{
+  "environment": {"n_agents": 2, "n_actions": 2, "partitions": [[0, 1]]}
+}
